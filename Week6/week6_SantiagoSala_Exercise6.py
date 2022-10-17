@@ -1,7 +1,7 @@
 import math
 print("Santiago Sala")
-print("Week 6 Exercise 7: Biggest of them all.")
-print("This program will return the biggest of the given numbers.\n")
+print("Week 6 Exercise 6: BMI calculator.")
+print("This program will calculate the BMI given the height and the weight.\n")
 
 def isFloat(message, height):
     while True:
