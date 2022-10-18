@@ -1,5 +1,5 @@
 from sympy import symbols, Eq, solve
-import math
+
 print("Santiago Sala")
 print("Week 4 Exercise 6: Solve equation")
 print("This program will solve a given equation.")

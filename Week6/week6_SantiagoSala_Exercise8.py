@@ -17,7 +17,7 @@ def isInt(message):
 def factorial(number):
     index = 1
     result = 1
-    while index < number:
+    while index <= number:
         result *= index
         index += 1
     return result
